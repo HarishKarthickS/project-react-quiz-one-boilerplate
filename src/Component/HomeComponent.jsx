@@ -5,7 +5,7 @@ export default class HomeComponent extends Component {
   render() {
     return (
       <div>
-        <h1>Quiz App</h1>
+        <h1 style={{color:'black'}}>Quiz App</h1>
         <button id="play">Play</button>
       </div>
     )
