@@ -1,0 +1,13 @@
+import { Component } from 'react'
+import './HomeComponent.css'
+import React from 'react'
+export default class HomeComponent extends Component {
+  render() {
+    return (
+      <div>
+        <h1>Quiz App</h1>
+        <button id="play">Play</button>
+      </div>
+    )
+  }
+}

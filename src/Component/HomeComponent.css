@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#play {
+  width: 93%;
+  height: 93%;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  background-color: rgba(0, 255, 255, 0.66);
+  color: #fff;
+}
