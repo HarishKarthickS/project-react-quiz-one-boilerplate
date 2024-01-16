@@ -2,10 +2,12 @@
   margin: 0%;
   padding: 0%;
 }
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#div-container {
+  margin-top: 66%;
+  width: 21vw;
+}
+#div-container h1 {
+  font-size: 39px;
 }
 #play {
   width: 93%;
